@@ -1,0 +1,3 @@
+../Src/text_comp_decomp.c:6:6:compresserTexte	4
+../Src/text_comp_decomp.c:32:6:creerEntete	4
+../Src/text_comp_decomp.c:55:6:compresserTexteEnBinaire	5

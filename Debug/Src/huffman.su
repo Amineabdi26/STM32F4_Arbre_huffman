@@ -1,0 +1,11 @@
+../Src/huffman.c:4:6:occurence	24	static
+../Src/huffman.c:14:6:afficherOccurrencesUART	24	static
+../Src/huffman.c:28:6:creerFeuille	32	static
+../Src/huffman.c:50:6:afficherFeuilles	56	static
+../Src/huffman.c:69:6:triArbre	32	static
+../Src/huffman.c:83:6:afficherTabArbreHuffman	56	static
+../Src/huffman.c:104:15:creerNoeud	24	static
+../Src/huffman.c:123:6:parcourirArbre	16	static
+../Src/huffman.c:139:6:libererMemoireArbre	16	static
+../Src/huffman.c:148:6:creerCode	32	static
+../Src/huffman.c:167:15:getAddress	24	static
